@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroFolio</string>
+    <string name="accounts">Accounts</string>
+    <string name="home">Home</string>
+</resources>
